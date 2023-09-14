@@ -1,5 +1,6 @@
 # ML-poker-hand-predictor
-Code is in 
+Code is in "machine learning project jupiter" file
+Data is in "poker-hand-testing.data.CSV" file
 
 Conclusion:
 
