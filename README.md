@@ -1,5 +1,7 @@
-# ML project jupiter notebook
-Conclusion
+# ML-poker-hand-predictor
+Code is in 
+
+Conclusion:
 
 I was able to train a model capable of predicting a possible hand in poker knowing all five cards in the middle of the table, and not knowing the two cards of the person playing, with an accuracy of more than fifty percent.
 
@@ -7,7 +9,7 @@ Tuned Gradient Boosting worked best, however, due to the long processing time, i
 
 The percentage results would have been higher if more data had been used, but unfortunately, due to the limitations of my computer, I only used five thousand out of a million possible examples.
 
-Next Steps
+Next Steps:
 
 In the future, this model could be used, for example, for televised broadcasts of poker games, so that each player's chances of winning are displayed on the monitor.
 
